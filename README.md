@@ -10,6 +10,7 @@
 - 🔐 **Local-first utilities** — [twostamp](https://github.com/MacStenk/twostamp): prove files existed unchanged at a point in time (RFC 3161 + OpenTimestamps)
 - 📚 **Knowledge bases** — [codeback-wissen](https://github.com/MacStenk/codeback-wissen) (LLM optimization, AI visibility) · [awesome-practical-ai](https://github.com/MacStenk/awesome-practical-ai)
 - 🗄️ **Self-hosting** — Neo4j deployment, bridges and dashboards
+- 🤝 **Contributions** — [roamgate#187](https://github.com/powerfooI/roamgate/pull/187) (merged): Antigravity CLI session provider for the coding-agent remote control
 
 *Active work is what's pinned below; archived repos stay archived.*
 
